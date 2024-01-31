@@ -1,0 +1,7 @@
+{
+  "name":"Mohammad Syed",
+  "age":30,
+  "hobbies":["Java", "Oracle SQL", "Cooking", "Swimming"],
+  "languages":{"Arabic":"Beginner", "Urdu": "Intermediate", "English":"Advanced"},
+  "address": {"city":  "Bridgewater", "state":  "nj", "zip":  "08807"}
+}

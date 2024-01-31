@@ -1,0 +1,8 @@
+2023-12-19 09:21:44.391 [main] INFO  com.syedm.App ms10347 session-123 - Order shipped successfully.
+2023-12-19 09:21:44.391 [main] WARN  com.syedm.App ms10347 session-123 - Potential security vulnerability detected in user input: '...'
+2023-12-19 09:21:44.392 [main] ERROR com.syedm.App ms10347 session-123 - Failed to process order. Error: {. . .}
+2023-12-19 09:21:44.392 [main] FATAL com.syedm.App ms10347 session-123 - System crashed. Shutting down...
+2024-01-16 19:51:05.853 [main] INFO  com.syedm.App ms10347 session-123 - Order shipped successfully.
+2024-01-16 19:51:05.853 [main] WARN  com.syedm.App ms10347 session-123 - Potential security vulnerability detected in user input: '...'
+2024-01-16 19:51:05.853 [main] ERROR com.syedm.App ms10347 session-123 - Failed to process order. Error: {. . .}
+2024-01-16 19:51:05.855 [main] FATAL com.syedm.App ms10347 session-123 - System crashed. Shutting down...
